@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "name": "Paneer",
+      "price": 10,
+      "ingredients": "this is test data",
+      "dishimage": "https://www.cookwithmanali.com/wp-content/uploads/2017/03/Best-Kadai-Paneer.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Paneer2",
+      "price": 11,
+      "ingredients": "this is test data 2",
+      "dishimage": "https://www.cookwithmanali.com/wp-content/uploads/2014/03/Punjabi-Chole-Masala-notitle-cwm.jpg"
+    }
+  ]
